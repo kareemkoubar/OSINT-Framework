@@ -4103,12 +4103,12 @@
           "url": "https://www.brbpub.com/"
         },
         {
-          "name": "GOVDATA - Das Datenportal für Deutschland (German)",
+          "name": "GOVDATA - Das Datenportal f\u00fcr Deutschland (German)",
           "type": "url",
           "url": "https://www.govdata.de/"
         },
         {
-          "name": "Open-Data-Portal München (German)",
+          "name": "Open-Data-Portal M\u00fcnchen (German)",
           "type": "url",
           "url": "https://www.opengov-muenchen.de/"
         },
@@ -4738,6 +4738,19 @@
           "name": "SkyFi.com - Satellite Open Data (R)",
           "type": "url",
           "url": "https://app.skyfi.com/explore/open"
+        },
+        {
+          "name": "Gulf Strike Map",
+          "type": "url",
+          "url": "https://trackgulf.com",
+          "description": "Real-time OSINT map tracking every confirmed missile strike, drone attack, and energy infrastructure hit in the 2026 Iran-Israel-USA war across the Persian Gulf. Covers Iran, Israel, UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, Oman. Source-attributed events, live GDELT news feed, social OSINT layer.",
+          "status": "online",
+          "pricing": "free",
+          "bestFor": "Conflict tracking, geospatial OSINT, energy infrastructure attacks",
+          "input": "None",
+          "output": "Interactive map, event list",
+          "opsec": "low",
+          "opsecNote": "No account required, client-side only, no data submitted"
         }
       ]
     },
@@ -7733,7 +7746,7 @@
               "url": "https://themanyhats.club/centralised-place-for-privacy-resources/"
             },
             {
-              "name": "The Hitchhiker’s Guide to Online Anonymity",
+              "name": "The Hitchhiker\u2019s Guide to Online Anonymity",
               "type": "url",
               "url": "https://anonymousplanet.org/guide/"
             },
